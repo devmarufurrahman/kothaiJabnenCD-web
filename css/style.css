@@ -520,7 +520,11 @@ label {
 
 .logo a img{
 	height: 50px;
-	width: 50px;
+	width: 70px;
+}
+.footer-logo a img{
+	height: 50px;
+	width: 70px;
 }
 
 
